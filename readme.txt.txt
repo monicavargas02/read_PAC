@@ -1,0 +1,1 @@
+lectura de PAC3120 por modbusRTU
